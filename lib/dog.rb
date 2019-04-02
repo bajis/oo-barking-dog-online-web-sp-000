@@ -10,3 +10,5 @@ class Dog
     puts "woof!"
   end
 end
+
+Dog.new = Fido
