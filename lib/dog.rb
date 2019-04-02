@@ -10,4 +10,3 @@ class Dog
     puts "woof!"
   end
 end
-name = Dog.new('Fido')
